@@ -1,6 +1,6 @@
 {
   "name": "ImagePicker",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app",
   "cordova": {
     "id": "com.synconset.imagepicker",
